@@ -1,0 +1,11 @@
+{
+  "domain": "mijia_wsd",
+  "name": "Example Sensor",
+  "documentation": "https://github.com/wupanhao/custom_components/tree/main/mijia_wsd",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": [
+    "bluepy>=1.3.0"
+  ],
+  "version": "0.1.0"
+}
