@@ -1,0 +1,11 @@
+{
+  "domain": "LH_sensor",
+  "name": "LH_sensor Sensor",
+  "documentation": "https://github.com/wupanhao/custom_components",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": [
+    "pyserial"
+  ],
+  "version": "0.1.0"
+}
